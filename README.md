@@ -1,1 +1,1 @@
-# my-rules
+# rules
